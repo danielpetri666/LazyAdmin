@@ -12,7 +12,7 @@
     The URL of the image to use as the icon for the new Edge profile.
 
 .PARAMETER StartMenuShortcut
-    This parameter is a switch and is optional.
+    This parameter is a switch and is optional and requires administrator privileges.
     Creates a Start Menu shortcut for the new Edge profile.
 
 .EXAMPLE
